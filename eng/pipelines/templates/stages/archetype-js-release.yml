@@ -266,4 +266,3 @@ stages:
             TargetDocRepoName: ${{parameters.TargetDocRepoName}}
             Language: 'javascript'
             DailyDocsBuild: true
-            SetupDocsRepo: false
